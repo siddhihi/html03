@@ -1,0 +1,161 @@
+h1 { 
+    color:#000000;
+
+}
+.header{
+    
+    background-image: url("background.jpg");
+    
+display:flex;
+justify-content:center;
+}
+.menu{
+    display:flex;
+    justify-content: flex-end;
+}
+.info{
+    font-style: bold;
+    background-image: url("background.jpg");
+    color:#000000;
+}
+.grid{
+    background-image: url("background.jpg");
+ color:#000000;
+display:flex;
+flex-wrap:wrap;
+  
+  justify-content: space-evenly;
+}
+.follow{
+ background-image: url("background.jpg");
+  display:flex;
+flex-wrap:wrap;
+justify-content: space-evenly;  
+}
+html{
+    background-color:#ffffff ;
+}
+.item1 p{
+
+    font-style: italic;
+    
+}
+.item1 a{
+    padding-left: 80px;
+    font-style:bold;
+  
+}
+
+
+.item2 p{
+    
+    font-style: italic;
+    
+}
+.item2 a{
+    font-style:bold;
+    padding-left: 80px;
+}
+
+.item3 p{
+    font-style: italic;
+    
+}
+.item3 a{
+    font-style:bold;
+    padding-left: 80px;
+  
+}
+
+.item4 p{
+    font-style: italic;
+    
+}
+.item4 a{
+    font-style:bold;
+    padding-left: 80px;
+   
+}
+
+.item5 p{
+    font-style: italic;
+    
+}
+.item5 a{
+    font-style:bold;
+    padding-left: 80px;
+    
+}
+
+.item6 p{
+    font-style: italic;
+    
+}
+.item6 a{
+    font-style:bold;
+    padding-left: 80px;
+    
+}
+
+h2{
+    display:flex;
+justify-content:center;
+    background-image: url("background.jpg");
+}
+h4{
+    background-image: url("background.jpg");
+}
+.item1 h4{
+    border: 2px solid black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    display:flex;
+justify-content:center;
+}
+.item2 h4{
+    border: 2px solid black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    display:flex;
+justify-content:center;
+}
+.item3 h4{
+    border: 2px solid black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    display:flex;
+justify-content:center;
+}
+.item4 h4{
+    border: 2px solid black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    display:flex;
+justify-content:center;
+}
+.item5 h4{
+    border: 2px solid black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    display:flex;
+justify-content:center;
+}
+.item6 h4{
+    border: 2px solid black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    margin-left: 50px;
+    display:flex;
+justify-content:center;
+}
